@@ -1,0 +1,61 @@
+.img-section {}
+
+.para {
+    font-size: 25px;
+    font-family: 20px;
+    color: blue;
+}
+
+.img2 {
+    width: 20px;
+    height: 25px;
+    background-color: black;
+}
+
+.img-section {
+    background-color: grey;
+    width: 50%;
+    float: left;
+}
+
+.form-section {
+    background-color: whitesmoke;
+    width: 50%;
+    float: right;
+}
+
+.img1 {
+    font-family: Arial;
+    width: 600px;
+    height: 723px;
+}
+
+img {
+    width: 850px;
+    height: 750px;
+    display: block;
+}
+
+.imag2 {
+    width: 200px;
+    height: 250px;
+    display: flex;
+}
+
+.imag2 img {
+    width: 200px;
+    height: 250px;
+    margin-left: 350px;
+    padding: auto;
+}
+
+.form-part {
+    margin-left: 250px;
+    padding: auto;
+}
+
+.form-deco {
+    margin-left: 80px;
+    padding: 0.5px;
+    font-size: 20px;
+}
